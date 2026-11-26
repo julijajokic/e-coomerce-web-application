@@ -1,5 +1,5 @@
 
-## Running the React Application
+## Running the react application
 
 Open a new terminal in the project directory 
 
